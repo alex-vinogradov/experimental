@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Експериментальна психологія",
+    "section": "",
+    "text": "Передмова\nЦе книга Кварто. To learn more about Quarto books visit https://quarto.org/docs/books.\n\n# описові статистики\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00",
+    "crumbs": [
+      "Передмова"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Вступ",
+    "section": "",
+    "text": "Це книга, створена з розмітки та виконуваного коду.\nДивись Knuth (1984) для додаткового обговорення грамотного програмування.\n\nhist(rnorm(1000))\n\n\n\n\n\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. «Literate Programming». Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Вступ</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Підсумки",
+    "section": "",
+    "text": "Таким чином, ця книга не має жодного змісту.\n\nВеличина ефекту\n\n\nCol1\nCol2\nCol3\n\n\n\n\n1\n2\n3\n\n\n4\n5\n6\n\n\n7\n8\n9",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Підсумки</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Література",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "Література"
+    ]
+  }
+]

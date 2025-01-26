@@ -1,0 +1,11 @@
+# Передмова {.unnumbered}
+
+Це книга Кварто. To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+# описові статистики
+
+summary(cars)
+
+```
+

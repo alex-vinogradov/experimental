@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: docs
+
+lang: uk-UA
+
+book:
+  title: "Експериментальна психологія"
+  author: "Олександр Виноградов"
+  date: "1/26/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - morph
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+toc-title: зміст
+author-title: автор
+published-title: опубліковано
